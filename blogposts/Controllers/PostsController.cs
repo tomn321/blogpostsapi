@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace blogposts.Controllers
 {
+    [Produces("application/json")]
     [Route("api/[controller]")]
     public class PostsController : Controller
     {
