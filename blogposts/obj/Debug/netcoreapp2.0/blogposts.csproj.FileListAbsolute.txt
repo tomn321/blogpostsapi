@@ -8,3 +8,13 @@ C:\code\vs17\sd-sandbox\s2\wa\blogposts\obj\Debug\netcoreapp2.0\blogposts.Assemb
 C:\code\vs17\sd-sandbox\s2\wa\blogposts\obj\Debug\netcoreapp2.0\blogposts.AssemblyInfo.cs
 C:\code\vs17\sd-sandbox\s2\wa\blogposts\obj\Debug\netcoreapp2.0\blogposts.dll
 C:\code\vs17\sd-sandbox\s2\wa\blogposts\obj\Debug\netcoreapp2.0\blogposts.pdb
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\bin\Debug\netcoreapp2.0\blogposts.deps.json
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\bin\Debug\netcoreapp2.0\blogposts.runtimeconfig.json
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\bin\Debug\netcoreapp2.0\blogposts.runtimeconfig.dev.json
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\bin\Debug\netcoreapp2.0\blogposts.dll
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\bin\Debug\netcoreapp2.0\blogposts.pdb
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\obj\Debug\netcoreapp2.0\blogposts.csproj.CoreCompileInputs.cache
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\obj\Debug\netcoreapp2.0\blogposts.AssemblyInfoInputs.cache
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\obj\Debug\netcoreapp2.0\blogposts.AssemblyInfo.cs
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\obj\Debug\netcoreapp2.0\blogposts.dll
+C:\code\vs17\sd-sandbox\s2\git\webapi\blogpostsapi\blogposts\obj\Debug\netcoreapp2.0\blogposts.pdb
